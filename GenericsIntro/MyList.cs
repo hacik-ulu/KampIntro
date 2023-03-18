@@ -27,5 +27,16 @@ namespace GenericsIntro
             //Console.WriteLine("Diziye eklenen ilk eleman:"+items[0]);
         }
 
+        // Array eleman miktarının gösterir.
+        public int Lenght
+        {
+            get { return items.Length; }
+        }
+
+        // Arraydeki elemanları gösterir.
+        public T[] Items
+        {
+            get { return items; }
+        }
     }
 }
