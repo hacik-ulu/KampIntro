@@ -10,7 +10,7 @@ namespace GenericsIntro
         //constructor
         public MyList()
         {
-            items = new T[0];   
+            items = new T[0]; // array referans tipli olduğundan newler.  
         }
         public void Add(T item) // Arrayi eklemek istiyorum. Array referans tipli olduğundan yukarda new'lenmek zorunda.
         {

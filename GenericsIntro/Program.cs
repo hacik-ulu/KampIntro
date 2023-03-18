@@ -7,7 +7,7 @@ namespace GenericsIntro
         static void Main(string[] args)
         {
             //List of string
-            MyList<string> names = new MyList<string>();
+            MyList<string> names = new MyList<string>(); //boş liste oluşturuldu
             names.Add("Ali");
 
             Console.WriteLine(names.Lenght);
