@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{E65F7246-EE9D-442B-AA38-5D9492A380DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionaryGenericProject", "MyDictionaryGenericProject\MyDictionaryGenericProject.csproj", "{9B837E04-7925-4AE7-A2D5-B4BF48AF4B01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E65F7246-EE9D-442B-AA38-5D9492A380DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E65F7246-EE9D-442B-AA38-5D9492A380DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E65F7246-EE9D-442B-AA38-5D9492A380DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B837E04-7925-4AE7-A2D5-B4BF48AF4B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B837E04-7925-4AE7-A2D5-B4BF48AF4B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B837E04-7925-4AE7-A2D5-B4BF48AF4B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B837E04-7925-4AE7-A2D5-B4BF48AF4B01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
