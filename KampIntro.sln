@@ -35,6 +35,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesReCapCalısma", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{5A9993E4-5976-494D-ACDD-9311BC642A13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{B6B77463-D2C1-4388-A5AB-99E771E44C53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{68EC1929-3ACF-4681-ACF3-924E92987AA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,10 @@ Global
 		{5A9993E4-5976-494D-ACDD-9311BC642A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A9993E4-5976-494D-ACDD-9311BC642A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A9993E4-5976-494D-ACDD-9311BC642A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B77463-D2C1-4388-A5AB-99E771E44C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B77463-D2C1-4388-A5AB-99E771E44C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B77463-D2C1-4388-A5AB-99E771E44C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B77463-D2C1-4388-A5AB-99E771E44C53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

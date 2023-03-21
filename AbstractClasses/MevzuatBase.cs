@@ -9,6 +9,7 @@ namespace AbstractClasses
         //abstract classlar newlenemez (gövdesiz metod içerdiğinden)
         //tanımlanmamış(gövdesiz) operasyonlar yazılır bunu kullanan classlar kendine göre override eder.
         //constructor da kullanılabilir.protected yazılı şekilde olması clean koddur.
+
         protected MevzuatBase()
         {
             Console.WriteLine("Abstract classlar protected/public şekilde constructor oluşturabilir.");
