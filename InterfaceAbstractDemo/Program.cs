@@ -1,11 +1,11 @@
 ﻿
-using CoffeeApp.Adapters;
+using InterfaceAbstractDemo.Adapters;
 using InterfaceAbstractDemo.Abstract;
 using InterfaceAbstractDemo.Concrete;
 using InterfaceAbstractDemo.Entities;
 using System;
 
-namespace CoffeeApp
+namespace InterfaceAbstractDemo
 {
     partial class Program
     {
