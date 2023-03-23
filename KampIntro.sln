@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesReCapCalısma", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{B6B77463-D2C1-4388-A5AB-99E771E44C53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamerManageApp", "GamerManageApp\GamerManageApp.csproj", "{27BF7FDE-F1D9-490E-A9C3-67CCEFEAF9FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GamerManageApp", "GamerManageApp\GamerManageApp.csproj", "{27BF7FDE-F1D9-490E-A9C3-67CCEFEAF9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemoGameProject", "RecapDemoGameProject\RecapDemoGameProject.csproj", "{A5B4E389-D61D-4F00-9114-95E15979664C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{27BF7FDE-F1D9-490E-A9C3-67CCEFEAF9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27BF7FDE-F1D9-490E-A9C3-67CCEFEAF9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27BF7FDE-F1D9-490E-A9C3-67CCEFEAF9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B4E389-D61D-4F00-9114-95E15979664C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B4E389-D61D-4F00-9114-95E15979664C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B4E389-D61D-4F00-9114-95E15979664C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B4E389-D61D-4F00-9114-95E15979664C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
